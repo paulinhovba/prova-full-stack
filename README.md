@@ -32,6 +32,7 @@ Caso o candidato utilize algum dos itens a seguir conseguirá pontos adicionais 
 - Autenticação e autorização (OAuth, JWT);
 - Pipelines de CI/CD (GitLab, CircleCI, TravisCI, etc);
 - Sugestões sobre o challenge embasadas em alguma argumentação.
+- Utilização de Typescript.
 
 # Duração da Prova
 
