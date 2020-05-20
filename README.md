@@ -19,6 +19,15 @@ A prova possui um critério mínimo de requisitos que devem ser entregue, que s�
 
 A partir do momento que foi atigindo o critério mínimo o candidato tem direito de submeter a prova, porém caso o candidato queira adicionar funcionalidades, modificações em questões de layout, arquitetura da aplicação etc, isso será avaliado também.
 
+# O que será avaliado
+Queremos avaliar sua capacidade de desenvolver e documentar um back-end para uma aplicação. Serão avaliados:
+
+Código bem escrito e limpo;
+Quais ferramentas foram usadas, como e porquê, além do seu conhecimento das mesmas;
+Seu conhecimento em banco de dados, requisições HTTP, APIs REST, etc;
+Sua capacidade de se comprometer com o que foi fornecido;
+Sua capacidade de documentação da sua parte da aplicação.
+
 # Itens Adicionais
 
 Caso o candidato utilize algum dos itens a seguir conseguirá pontos adicionais na prova:
@@ -42,4 +51,4 @@ A duração da prova é de 5 dias a contar a partir da data que for enviado o li
 
  - Criar um fork do repositorio
  - adicionar o código no repositorio forkeado
- - fazer um pull request para o repositorio da tecmite
+ - enviar o link da prova para o discord.
