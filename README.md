@@ -1,26 +1,32 @@
-# prova-full-stack
 Projeto Todo - prova-full-stack.
 
 ==============
-
 
 ### Descrição
 O sistema TodoApp permite a criação, edição e acompanhamento de listas de tarefas (todos).
 
 
-### Exemplo de Interface
-
-
-
-
-### Instalação
-
-1. Faça o clone deste projeto com `https://github.com/paulinhovba/tesseract_vanilla.git`
-2. Faça o deploy para sua hospedagem (php) favorita. 
-
 ### Screenshot
+![Sem título](https://user-images.githubusercontent.com/52004768/82830282-a5f28a80-9e8b-11ea-9705-e36156fd808d.png)
+![Sem título1](https://user-images.githubusercontent.com/52004768/82830285-a9861180-9e8b-11ea-84bf-b3f2fe860137.png)
+![Sem título2](https://user-images.githubusercontent.com/52004768/82830286-ab4fd500-9e8b-11ea-91c6-ed3a36bdf96d.png)
 
-![image](https://user-images.githubusercontent.com/52004768/73840011-0767ee00-47f6-11ea-95ff-da49064eb8f4.png)
+
+### Dependências
+
+<b>Backend:</b>
+express 
+body-parser 
+cors 
+mongoose
+nodemon
+
+<b>Forntend:</b>
+bootstrap
+react router dom
+axios
+date-fns
+date-picker
 
 ### Meta
 
