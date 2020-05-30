@@ -6,7 +6,7 @@ Aplicação de TODO list, solicitado como parte de avaliação em processo selet
 
 > Status do Projeto: Em desenvolvimento :heavy_check_mark:
 
-# Recursos para utilização
+# Recursos
 
 Backend desenvolvido em NodeJS, sendo consumido pelo ReactJS. Base de dados em Mongo BD.
   
@@ -19,7 +19,7 @@ Backend desenvolvido em NodeJS, sendo consumido pelo ReactJS. Base de dados em M
 ![Sem título2](https://user-images.githubusercontent.com/52004768/82830286-ab4fd500-9e8b-11ea-91c6-ed3a36bdf96d.png)<br/>
 
 
-# Recursos e tecnologias utilizadas
+# Tecnologias
 
 - [x] NodeJS
 
