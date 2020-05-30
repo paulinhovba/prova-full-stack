@@ -1,3 +1,5 @@
+![PaulinhoMonteiro](https://user-images.githubusercontent.com/52004768/83332307-cd24cf80-a270-11ea-8a5b-53ca0036b7d0.png)
+
 # Projeto Todo - Prova-Full-Stack Developer
 
 Aplicação de TODO list, solicitado como parte de avaliação em processo seletivo para dev Full Stack. O sistema TodoApp permite a criação, edição e acompanhamento de listas de tarefas (todos).
